@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/R-Pradhyumna/usePopcorn/static/css/main.1c35d8a2.css",
+    "main.js": "/R-Pradhyumna/usePopcorn/static/js/main.e3aa070f.js",
+    "index.html": "/R-Pradhyumna/usePopcorn/index.html",
+    "main.1c35d8a2.css.map": "/R-Pradhyumna/usePopcorn/static/css/main.1c35d8a2.css.map",
+    "main.e3aa070f.js.map": "/R-Pradhyumna/usePopcorn/static/js/main.e3aa070f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c35d8a2.css",
+    "static/js/main.e3aa070f.js"
+  ]
+}
